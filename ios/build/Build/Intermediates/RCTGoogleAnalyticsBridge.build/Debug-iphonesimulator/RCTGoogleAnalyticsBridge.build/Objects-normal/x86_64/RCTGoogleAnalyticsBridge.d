@@ -1,0 +1,25 @@
+dependencies: \
+  /Users/nagarajumusini/Nagarj-vol/Tutorials/React-Native/Nagaraju/reactNativeSeed/react-native-starter-app/node_modules/react-native-google-analytics-bridge/ios/RCTGoogleAnalyticsBridge/RCTGoogleAnalyticsBridge/RCTGoogleAnalyticsBridge.m \
+  /Users/nagarajumusini/Nagarj-vol/Tutorials/React-Native/Nagaraju/reactNativeSeed/react-native-starter-app/node_modules/react-native-google-analytics-bridge/ios/RCTGoogleAnalyticsBridge/RCTGoogleAnalyticsBridge/RCTGoogleAnalyticsBridge.h \
+  /Users/nagarajumusini/Nagarj-vol/Tutorials/React-Native/Nagaraju/reactNativeSeed/react-native-starter-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/nagarajumusini/Nagarj-vol/Tutorials/React-Native/Nagaraju/reactNativeSeed/react-native-starter-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/nagarajumusini/Nagarj-vol/Tutorials/React-Native/Nagaraju/reactNativeSeed/react-native-starter-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/nagarajumusini/Nagarj-vol/Tutorials/React-Native/Nagaraju/reactNativeSeed/react-native-starter-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/nagarajumusini/Nagarj-vol/Tutorials/React-Native/Nagaraju/reactNativeSeed/react-native-starter-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/nagarajumusini/Nagarj-vol/Tutorials/React-Native/Nagaraju/reactNativeSeed/react-native-starter-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/nagarajumusini/Nagarj-vol/Tutorials/React-Native/Nagaraju/reactNativeSeed/react-native-starter-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/nagarajumusini/Nagarj-vol/Tutorials/React-Native/Nagaraju/reactNativeSeed/react-native-starter-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/nagarajumusini/Nagarj-vol/Tutorials/React-Native/Nagaraju/reactNativeSeed/react-native-starter-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/nagarajumusini/Nagarj-vol/Tutorials/React-Native/Nagaraju/reactNativeSeed/react-native-starter-app/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/nagarajumusini/Nagarj-vol/Tutorials/React-Native/Nagaraju/reactNativeSeed/react-native-starter-app/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/nagarajumusini/Nagarj-vol/Tutorials/React-Native/Nagaraju/reactNativeSeed/react-native-starter-app/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/nagarajumusini/Nagarj-vol/Tutorials/React-Native/Nagaraju/reactNativeSeed/react-native-starter-app/node_modules/react-native-google-analytics-bridge/ios/RCTGoogleAnalyticsBridge/google-analytics-lib/GAI.h \
+  /Users/nagarajumusini/Nagarj-vol/Tutorials/React-Native/Nagaraju/reactNativeSeed/react-native-starter-app/node_modules/react-native-google-analytics-bridge/ios/RCTGoogleAnalyticsBridge/google-analytics-lib/GAILogger.h \
+  /Users/nagarajumusini/Nagarj-vol/Tutorials/React-Native/Nagaraju/reactNativeSeed/react-native-starter-app/node_modules/react-native-google-analytics-bridge/ios/RCTGoogleAnalyticsBridge/google-analytics-lib/GAITrackedViewController.h \
+  /Users/nagarajumusini/Nagarj-vol/Tutorials/React-Native/Nagaraju/reactNativeSeed/react-native-starter-app/node_modules/react-native-google-analytics-bridge/ios/RCTGoogleAnalyticsBridge/google-analytics-lib/GAITracker.h \
+  /Users/nagarajumusini/Nagarj-vol/Tutorials/React-Native/Nagaraju/reactNativeSeed/react-native-starter-app/node_modules/react-native-google-analytics-bridge/ios/RCTGoogleAnalyticsBridge/google-analytics-lib/GAIFields.h \
+  /Users/nagarajumusini/Nagarj-vol/Tutorials/React-Native/Nagaraju/reactNativeSeed/react-native-starter-app/node_modules/react-native-google-analytics-bridge/ios/RCTGoogleAnalyticsBridge/google-analytics-lib/GAIDictionaryBuilder.h \
+  /Users/nagarajumusini/Nagarj-vol/Tutorials/React-Native/Nagaraju/reactNativeSeed/react-native-starter-app/node_modules/react-native-google-analytics-bridge/ios/RCTGoogleAnalyticsBridge/google-analytics-lib/GAIEcommerceProduct.h \
+  /Users/nagarajumusini/Nagarj-vol/Tutorials/React-Native/Nagaraju/reactNativeSeed/react-native-starter-app/node_modules/react-native-google-analytics-bridge/ios/RCTGoogleAnalyticsBridge/google-analytics-lib/GAIEcommerceProductAction.h \
+  /Users/nagarajumusini/Nagarj-vol/Tutorials/React-Native/Nagaraju/reactNativeSeed/react-native-starter-app/node_modules/react-native-google-analytics-bridge/ios/RCTGoogleAnalyticsBridge/google-analytics-lib/GAIEcommercePromotion.h \
+  /Users/nagarajumusini/Nagarj-vol/Tutorials/React-Native/Nagaraju/reactNativeSeed/react-native-starter-app/node_modules/react-native-google-analytics-bridge/ios/RCTGoogleAnalyticsBridge/google-analytics-lib/GAIEcommerceFields.h

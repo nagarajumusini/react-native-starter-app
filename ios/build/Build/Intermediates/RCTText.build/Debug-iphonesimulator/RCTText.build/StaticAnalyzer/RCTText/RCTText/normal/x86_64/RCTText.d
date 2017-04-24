@@ -1,0 +1,21 @@
+dependencies: \
+  /Users/nagarajumusini/Nagarj-vol/Tutorials/React-Native/Nagaraju/reactNativeSeed/react-native-starter-app/node_modules/react-native/Libraries/Text/RCTText.m \
+  /Users/nagarajumusini/Nagarj-vol/Tutorials/React-Native/Nagaraju/reactNativeSeed/react-native-starter-app/node_modules/react-native/Libraries/Text/RCTText.h \
+  /Users/nagarajumusini/Nagarj-vol/Tutorials/React-Native/Nagaraju/reactNativeSeed/react-native-starter-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/nagarajumusini/Nagarj-vol/Tutorials/React-Native/Nagaraju/reactNativeSeed/react-native-starter-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/nagarajumusini/Nagarj-vol/Tutorials/React-Native/Nagaraju/reactNativeSeed/react-native-starter-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/nagarajumusini/Nagarj-vol/Tutorials/React-Native/Nagaraju/reactNativeSeed/react-native-starter-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/nagarajumusini/Nagarj-vol/Tutorials/React-Native/Nagaraju/reactNativeSeed/react-native-starter-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/nagarajumusini/Nagarj-vol/Tutorials/React-Native/Nagaraju/reactNativeSeed/react-native-starter-app/node_modules/react-native/Libraries/Text/RCTShadowText.h \
+  /Users/nagarajumusini/Nagarj-vol/Tutorials/React-Native/Nagaraju/reactNativeSeed/react-native-starter-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /Users/nagarajumusini/Nagarj-vol/Tutorials/React-Native/Nagaraju/reactNativeSeed/react-native-starter-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/nagarajumusini/Nagarj-vol/Tutorials/React-Native/Nagaraju/reactNativeSeed/react-native-starter-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/nagarajumusini/Nagarj-vol/Tutorials/React-Native/Nagaraju/reactNativeSeed/react-native-starter-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/nagarajumusini/Nagarj-vol/Tutorials/React-Native/Nagaraju/reactNativeSeed/react-native-starter-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/nagarajumusini/Nagarj-vol/Tutorials/React-Native/Nagaraju/reactNativeSeed/react-native-starter-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/nagarajumusini/Nagarj-vol/Tutorials/React-Native/Nagaraju/reactNativeSeed/react-native-starter-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/nagarajumusini/Nagarj-vol/Tutorials/React-Native/Nagaraju/reactNativeSeed/react-native-starter-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/nagarajumusini/Nagarj-vol/Tutorials/React-Native/Nagaraju/reactNativeSeed/react-native-starter-app/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/nagarajumusini/Nagarj-vol/Tutorials/React-Native/Nagaraju/reactNativeSeed/react-native-starter-app/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/nagarajumusini/Nagarj-vol/Tutorials/React-Native/Nagaraju/reactNativeSeed/react-native-starter-app/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/nagarajumusini/Nagarj-vol/Tutorials/React-Native/Nagaraju/reactNativeSeed/react-native-starter-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h
